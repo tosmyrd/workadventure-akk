@@ -37,7 +37,7 @@
                  "value":"\"Weisswurstfr\u00fchst\u00fcck\"\n\nSM liest die besten und fragw\u00fcrdigsten Stellen aus den AKK-Publikationen der letzten 500 Jahre vor (4h)."
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":40,
          "x":0,
          "y":0
